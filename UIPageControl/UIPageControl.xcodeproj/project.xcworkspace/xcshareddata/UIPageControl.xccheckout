@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ED7BBDEB-FB0D-4DA4-9A3A-2860D0ECBACD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIPageControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5876904CCEDFDD69173875AD796262F93E54C560</key>
+		<string>github.com:shidelinFYH/hello-baby.git</string>
+		<key>8BC1154C7F6CBDC942362FC8B4097DBFBB14755E</key>
+		<string>github.com:shidelinFYH/hello-baby.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIPageControl/UIPageControl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5876904CCEDFDD69173875AD796262F93E54C560</key>
+		<string>../../../..</string>
+		<key>8BC1154C7F6CBDC942362FC8B4097DBFBB14755E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:shidelinFYH/hello-baby.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8BC1154C7F6CBDC942362FC8B4097DBFBB14755E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5876904CCEDFDD69173875AD796262F93E54C560</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8BC1154C7F6CBDC942362FC8B4097DBFBB14755E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hello-baby</string>
+		</dict>
+	</array>
+</dict>
+</plist>
